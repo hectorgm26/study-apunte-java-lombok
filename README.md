@@ -4,7 +4,7 @@ Este proyecto sirve como un apunte personal y guía de referencia sobre el uso d
 
 ## ¿Qué es Lombok?
 
-Project Lombok es una biblioteca de Java que se conecta automáticamente a tu editor y herramientas de construcción, mejorando tu código Java. Nunca vuelvas a escribir otro método getter o equals, con una anotación tu clase tiene un constructor completo, automatiza tus variables de registro y mucho más.
+Project Lombok es una biblioteca de Java que se conecta automáticamente a tu editor y herramientas de construcción, mejorando tu código Java. Con Lombok, ya no hay necesidad de escribir otro método getter o equals, ya que con una simple anotación, tu clase tendrá un constructor completo, automatizando las variables de registro y mucho más que podras comprobar en el código y Readme de este repositorio.
 
 ### Beneficios principales:
 - Reduce el código repetitivo
